@@ -11,5 +11,7 @@
 <a href="student-form.html">Forms</a>
 <br>
 <a href="todo-session-demo.jsp">ToDo Session Demo</a>
+<br>
+<a href="cookies-homepage.jsp">Cookies</a>
 </body>
 </html>
